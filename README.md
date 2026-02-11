@@ -4,11 +4,6 @@
 Estudante de Ciência de Dados, com foco em organização e qualidade da informação. Experiência acadêmica em Excel, Power Query, Power BI, SQL e Python básico, aplicados em limpeza, estruturação e validação de dados.
 Disponível para estágio ou posição júnior na área de dados.
 
-### 🌐 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/tcristinesilva)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatotcristine@gmail.com)
-
 
 ### 📦 Tecnologias e Ferramentas
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -18,3 +13,9 @@ Disponível para estágio ou posição júnior na área de dados.
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+### 🌐 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcristinesilva)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatotcristine@gmail.com)
+
