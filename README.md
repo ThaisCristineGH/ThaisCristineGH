@@ -23,5 +23,5 @@ Disponível para estágio ou posição júnior na área de dados.
 
 
 ### 📈 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThaisCristineGH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThaisCristineGH&theme=dracula)
 
