@@ -21,3 +21,7 @@ Disponível para estágio ou posição júnior na área de dados.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcristinesilva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatotcristine@gmail.com)
 
+
+### 📈 GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThaisCristineGH&show_icons=true&theme=dracula)
+
