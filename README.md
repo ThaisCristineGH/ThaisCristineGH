@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou a Thais Cristine! ✨
 
-<!--
-**ThaisCristineGH/ThaisCristineGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Sobre Mim
+Estudante de Ciência de Dados, com foco em organização e qualidade da informação. Experiência acadêmica em Excel, Power Query, Power BI, SQL e Python básico, aplicados em limpeza, estruturação e validação de dados.
+Disponível para estágio ou posição júnior na área de dados.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 Tecnologias e Ferramentas
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-005276?style=for-the-badge&logo=powerquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
