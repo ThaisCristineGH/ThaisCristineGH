@@ -1,8 +1,7 @@
 # Olá, eu sou a Thais Cristine!
 
 ### 💡 Sobre Mim
-Estudante de Ciência de Dados, com foco em organização e qualidade da informação. Experiência acadêmica em Excel, Power Query, Power BI, SQL e Python básico, aplicados em limpeza, estruturação e validação de dados.
-Disponível para estágio ou posição júnior na área de dados.
+Estudante de Ciência de Dados, com foco em organização e qualidade da informação. Experiência acadêmica em Excel, Power Query, Power BI, SQL, Salesforce e Python básico, aplicados em limpeza, estruturação e validação de dados. Disponível para estágio ou posição júnior na área de dados.
 
 
 ### 📦 Tecnologias e Ferramentas
