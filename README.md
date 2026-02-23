@@ -1,24 +1,24 @@
 # Olá, eu sou a Thais Cristine!
 
 ### 💡 Sobre Mim
-Estudante de Ciência de Dados, com foco em organização e qualidade da informação. Experiência acadêmica em Excel, Power Query, Power BI, SQL, Salesforce e Python básico, aplicados em limpeza, estruturação e validação de dados. Disponível para estágio ou posição júnior na área de dados.
+Sou estudante de Ciência de Dados e entusiasta da tecnologia, em busca da minha primeira oportunidade como Estagiária ou Júnior em Salesforce.
 
+Minha base técnica está sendo construída com conhecimentos em SQL, Power BI, Excel e lógica de programação. Recentemente, descobri o ecossistema Salesforce e foi "amor à primeira vista". Atualmente, foco meus estudos na plataforma, desenvolvendo um domínio básico e prático através das trilhas do Trailhead.
+Sou uma dedicada Trailblazer em fase de aprendizado contínuo, cativada pela "bolha azul" e pela capacidade da plataforma de transformar dados em relacionamentos reais. Meu objetivo é aplicar minha base analítica para crescer dentro do ecossistema, otimizar processos e gerar valor real dentro da plataforma Salesforce.
 
-### 📦 Tecnologias e Ferramentas
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+☁️ Estou muito empenhada e totalmente disponível para começar a construir uma carreira em Salesforce, o CRM número um do mundo ☁️
+
+### 📦 Tecnologias e Ferramentas:
 ![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-005276?style=for-the-badge&logo=powerquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 
 ### 🌐 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcristinesilva)
+[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/tcristinesilva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatotcristine@gmail.com)
