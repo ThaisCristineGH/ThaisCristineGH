@@ -1,7 +1,7 @@
 # Olá, eu sou a Thais Cristine!
 
 ### 💡 Sobre Mim
-Sou estudante de Ciência de Dados e entusiasta da tecnologia, em busca da minha primeira oportunidade como Estagiária ou Júnior em Salesforce.
+Sou estudante de Ciência de Dados e uma entusiasta do ecossistema Salesforce em busca da minha primeira oportunidade como Estagiária, Júnior ou Trainee.
 
 Minha base técnica está sendo construída com conhecimentos em SQL, Power BI, Excel e lógica de programação. Recentemente, descobri o ecossistema Salesforce e foi "amor à primeira vista". Atualmente, foco meus estudos na plataforma, desenvolvendo um domínio básico e prático através das trilhas do Trailhead.
 Sou uma dedicada Trailblazer em fase de aprendizado contínuo, cativada pela "bolha azul" e pela capacidade da plataforma de transformar dados em relacionamentos reais. Meu objetivo é aplicar minha base analítica para crescer dentro do ecossistema, otimizar processos e gerar valor real dentro da plataforma Salesforce.
