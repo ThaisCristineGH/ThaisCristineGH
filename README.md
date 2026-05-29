@@ -8,3 +8,7 @@ Profissional em formação na área de Ciência de Dados, apaixonada por transfo
 Tenho forte interesse em Data Analytics, CRM, Storytelling com Dados e Qualidade de Dados (QA), atuando na validação, consistência e confiabilidade das informações para garantir análises precisas e de alto impacto. Acredito que decisões inteligentes começam com dados bem estruturados, governados e traduzidos em insights claros para o negócio.
 
 Busco oportunidades como Estagiária ou Analista Júnior nas áreas de Dados, Analytics, BI, CRM ou Qualidade de Dados, onde possa aplicar minha capacidade analítica, atenção aos detalhes, pensamento crítico e habilidade de comunicação para transformar dados em valor estratégico para as organizações.
+
+✉️ thaiscristinesilvacontato@gmail.com
+🔗 GitHub: github.com/ThaisCristineGH
+🔗 Trailhead: salesforce.com/trailblazer/tcristinesilva
