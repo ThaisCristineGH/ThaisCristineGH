@@ -11,4 +11,3 @@ Busco oportunidades como Estagiária ou Analista Júnior nas áreas de Dados, An
 
 ✉️ thaiscristinesilvacontato@gmail.com
 🔗 GitHub: github.com/ThaisCristineGH
-🔗 Trailhead: salesforce.com/trailblazer/tcristinesilva
