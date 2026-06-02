@@ -10,4 +10,4 @@ Tenho forte interesse em Data Analytics, CRM, Storytelling com Dados e Qualidade
 Busco oportunidades como Estagiária ou Analista Júnior nas áreas de Dados, Analytics, BI, CRM ou Qualidade de Dados, onde possa aplicar minha capacidade analítica, atenção aos detalhes, pensamento crítico e habilidade de comunicação para transformar dados em valor estratégico para as organizações.
 
 ✉️ thaiscristinesilvacontato@gmail.com
-🔗 GitHub: github.com/ThaisCristineGH
+🔗 Linkedin: www.linkedin.com/in/tcristinesilva
