@@ -1,5 +1,3 @@
-# Olá, eu sou a Thais Cristine!
-
 ### 💡 Sobre Mim
 Cientista de Dados em formação | SQL | Python | Power BI | Excel | Data Analytics | ETL | CRM | QA
 
