@@ -5,3 +5,4 @@ Graduanda em Ciência de Dados, com sólida experiência em organização de inf
 
 ✉️ thaiscristinesilvacontato@gmail.com
 🔗 Linkedin: www.linkedin.com/in/tcristinesilva
+🔗 Salesforce / Trailblazer: https://www.salesforce.com/trailblazer/thaiscristinesilva
